@@ -1,4 +1,4 @@
-How to use the plugin:
+How to install/use the plugin:
 1. Go Project -> Project Settings -> Plugins -> Create New Plugin
 2. Make sure the folder for the plugin is "tilemap_baker" and placed like this: res://addons/tilemap_baker/
 3. Under "Script Name", call it "tilemap_baker_plugin"
